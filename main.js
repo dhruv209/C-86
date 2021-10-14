@@ -12,7 +12,7 @@ function new_image()
         top:0,
         left:0
     });
-    canvas.add(player_object);
+    canvas.add(block_image_object);
 });
 }
 
